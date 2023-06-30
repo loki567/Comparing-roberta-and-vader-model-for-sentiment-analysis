@@ -1,0 +1,1 @@
+Comparing the sentiments provided by vader and roberta model. Observed that roberta model provides confident results and outperforms the vader model by taking into account the context of the sentence.
